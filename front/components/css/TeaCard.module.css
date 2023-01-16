@@ -1,0 +1,9 @@
+.teaground {
+	background-color:var(--accent-color);
+	width: fit-content;
+	min-width: 10vw;
+	margin:0.7rem;
+	border: 2px solid black;
+	border-radius: 12px;
+	box-shadow: 2px 2px 5px var(--accent-color-shadow);
+}
